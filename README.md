@@ -16,5 +16,5 @@ Mi nombre es Eugenio Cordi, actualmente trabajo en Industrias Pugliese SA
 ![1218857_code_coding_development_github_program_icon](https://user-images.githubusercontent.com/36177129/131097635-a3962cda-b518-403b-9e2d-f2e61e18380a.png)
 ![4047373_agile_dev_developer_development_devop_icon (1)](https://user-images.githubusercontent.com/36177129/131097497-d13eb89f-b4a2-4f73-ab94-8e5321336e25.png)
 
-📫 How to reach me ordi96@gmail.com
-
+📫 How to reach me cordi96@gmail.com
+[https://github.com/ecordi/ecordi/issues/1#issuecomment-907037798] https://www.instagram.com/eugenio.cordi/
