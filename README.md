@@ -2,7 +2,7 @@
 Mi nombre es Eugenio Cordi, actualmente trabajo en Industrias Pugliese SA
 ### Soy desarrollador Java Jr
 
-### Skill
+### Skills
 
 ![4373217_java_logo_logos_icon](https://user-images.githubusercontent.com/36177129/131095381-1e145005-3827-467b-a491-86d55d853d81.png)
 ![317755_badge_html_html5_achievement_award_icon](https://user-images.githubusercontent.com/36177129/131095672-7d74e531-e155-4c46-a1e2-2f29cdefdc9e.png)
